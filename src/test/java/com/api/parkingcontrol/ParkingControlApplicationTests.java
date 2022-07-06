@@ -8,3 +8,6 @@ class ParkingControlApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
